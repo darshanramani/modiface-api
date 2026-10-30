@@ -192,6 +192,3 @@ The following manual checks were performed during development:
 - [FastAPI documentation](https://fastapi.tiangolo.com/)
 - [Docker documentation](https://docs.docker.com/)
 
-## Submission Note
-
-This repository was prepared for a technical assessment. Keep it **private** unless the organization explicitly authorizes public sharing. Do not commit proprietary instructions, confidential emails, API keys, or personal information.
